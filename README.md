@@ -18,7 +18,4 @@ It was observed that block F and C has higher capacity to take more wightier pro
 Shipment by road has the highest rating , followed by ship and flight. And finally, important products cost more than less important products.
 
 ## Conclusion
-In conclusion, customers are satisfied more with road shipments for the delivery of their products
-
-
-## Recomendation
+In conclusion, customers are satisfied more with road shipments for the delivery of their products.
